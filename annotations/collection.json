@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://wmichelle22.github.io/Threeheads/annotations/e6e7396a3f15d43f5207ef5004091a74.json" ],
+  "@id" : "https://wmichelle22.github.io/Threeheads/annotations/collection.json",
+  "label" : "All annotations loaded in wmichelle22/Threeheads project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
