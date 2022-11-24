@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://wmichelle22.github.io/Threeheads/manifests/manifest2.json",
-    "label" : "Three Heads Fragment of a Wall Painting"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://wmichelle22.github.io/Threeheads/manifests/manifest-1.json",
     "label" : "muralfragment"
   } ]
