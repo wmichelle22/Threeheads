@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://wmichelle22.github.io/Threeheads/manifests/manifest.json",
     "label" : "muralfragment"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://wmichelle22.github.io/Threeheads/manifests/muralfragment",
+    "label" : "muralfragment"
   } ]
 }
