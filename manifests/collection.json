@@ -9,9 +9,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://wmichelle22.github.io/Threeheads/manifests/manifest2.json",
     "label" : "Three Heads Fragment of a Wall Painting"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://wmichelle22.github.io/Threeheads/manifests/manifest.json",
-    "label" : "Three Heads Fragment of a Wall Painting"
   } ]
 }
