@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 26,
+    "height" : 15
+  }, {
+    "width" : 51,
+    "height" : 29
+  }, {
+    "width" : 102,
+    "height" : 57
+  }, {
+    "width" : 203,
+    "height" : 114
+  }, {
+    "width" : 405,
+    "height" : 227
+  }, {
+    "width" : 810,
+    "height" : 453
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 810,
+  "@id" : "https://wmichelle22.github.io/Threeheads/images/case",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 453
+}
