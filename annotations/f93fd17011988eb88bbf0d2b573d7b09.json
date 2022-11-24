@@ -1,0 +1,84 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "surroundings",
+      "@type" : "oa:Tag",
+      "chars" : "surroundings"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Now collected by&nbsp;<a href=\"https://www.humboldtforum.org/en/dome-space/\" target=\"_blank\" rel=\"noopener\">humboldtforum",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Now collected by&nbsp;<a href=\"https://www.humboldtforum.org/en/dome-space/\" target=\"_blank\" rel=\"noopener\">humboldtforum</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104157831613952618819",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-11-24T09:41:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1669282871060",
+    "dcterms:modified" : "2022-11-24T09:41:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://417f0ed0-30bf-4be0-ae8b-14e44cf97e04"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=284,410,2176,966"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2460.46089,1375.22318h-1087.98097v0h-1087.98097v-482.75476v-482.75476h1087.98097h1087.98097v482.75476z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d5ab78f7-ae1d-4ac1-a723-4304005f9ab0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://196655ea-51a8-4c8f-9ec7-3844d7c36023"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mural fragment \"Deva and Bhikkhu\" in cave 224 <a href=\"http://www.hhh.gov.cn/article/3234.html\" target=\"_blank\" rel=\"noopener\">Kizil Grottoes",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mural fragment \"Deva and Bhikkhu\" in cave 224 <a href=\"http://www.hhh.gov.cn/article/3234.html\" target=\"_blank\" rel=\"noopener\">Kizil Grottoes</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mural fragment",
+      "@type" : "oa:Tag",
+      "chars" : "mural fragment"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kizil Grottoes",
+      "@type" : "oa:Tag",
+      "chars" : "Kizil Grottoes"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104157831613952618819",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-11-24T09:38:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1669282730201",
+    "dcterms:modified" : "2022-11-24T09:39:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://417f0ed0-30bf-4be0-ae8b-14e44cf97e04"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2425,1670,202,273"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2425.2981,1670.31369h101.16068v0h101.16068v136.32347v136.32347h-101.16068h-101.16068v-136.32347z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_38e346f7-35f0-4938-9b56-053b2b929bb6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"51.14588\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://196655ea-51a8-4c8f-9ec7-3844d7c36023"
+    } ]
+  } ],
+  "@id" : "https://wmichelle22.github.io/Threeheads/annotations/f93fd17011988eb88bbf0d2b573d7b09.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
