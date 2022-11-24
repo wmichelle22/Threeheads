@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://wmichelle22.github.io/Threeheads/annotations/e6e7396a3f15d43f5207ef5004091a74.json", "https://wmichelle22.github.io/Threeheads/annotations/f93fd17011988eb88bbf0d2b573d7b09.json", "https://wmichelle22.github.io/Threeheads/annotations/5e7e2f43ce9caf480542dffbf60dd674.json", "https://wmichelle22.github.io/Threeheads/annotations/c9b9c6c9448c02a9250b23f26775434a.json" ],
+  "otherContent" : [ "https://wmichelle22.github.io/Threeheads/annotations/e6e7396a3f15d43f5207ef5004091a74.json", "https://wmichelle22.github.io/Threeheads/annotations/f93fd17011988eb88bbf0d2b573d7b09.json", "https://wmichelle22.github.io/Threeheads/annotations/c9b9c6c9448c02a9250b23f26775434a.json" ],
   "@id" : "https://wmichelle22.github.io/Threeheads/annotations/collection.json",
   "label" : "All annotations loaded in wmichelle22/Threeheads project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
