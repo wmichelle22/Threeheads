@@ -1,0 +1,80 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "nearby objects",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>nearby objects</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104157831613952618819",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-11-24T22:52:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1669330348307",
+    "dcterms:modified" : "2022-11-24T22:52:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://wmichelle22.github.io/Threeheads/manifests/manifest-1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=645,239,137,100"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M645.11999,238.74958h68.72727v0h68.72727v50.09091v50.09091h-68.72727h-68.72727v-50.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_64c8bd93-a273-4069-a2a6-8f86f9e8e1be\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://726ad7ee-43b9-441e-9118-9ec96f3e2599"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"http://collections.vam.ac.uk/item/O24837/three-heads-fragment-of-a-sculpture-unknown/three-heads-fragment-of-a-wall-painting-unknown/\" target=\"_blank\" rel=\"noopener\">Fragment",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"http://collections.vam.ac.uk/item/O24837/three-heads-fragment-of-a-sculpture-unknown/three-heads-fragment-of-a-wall-painting-unknown/\" target=\"_blank\" rel=\"noopener\">Fragment</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "museum",
+      "@type" : "oa:Tag",
+      "chars" : "museum"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "gallery",
+      "@type" : "oa:Tag",
+      "chars" : "gallery"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/104157831613952618819",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-11-24T22:51:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1669330299086",
+    "dcterms:modified" : "2022-11-24T22:51:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://wmichelle22.github.io/Threeheads/manifests/manifest-1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=618,79,117,150"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M617.6639,78.70071h58.56651v0h58.56651v75.24466v75.24466h-58.56651h-58.56651v-75.24466z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_b5ffc8ce-6888-46d1-a3b2-517c6d703118\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://726ad7ee-43b9-441e-9118-9ec96f3e2599"
+    } ]
+  } ],
+  "@id" : "https://wmichelle22.github.io/Threeheads/annotations/c9b9c6c9448c02a9250b23f26775434a.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
