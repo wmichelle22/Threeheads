@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 25,
+    "height" : 12
+  }, {
+    "width" : 50,
+    "height" : 24
+  }, {
+    "width" : 100,
+    "height" : 48
+  }, {
+    "width" : 200,
+    "height" : 96
+  }, {
+    "width" : 400,
+    "height" : 192
+  }, {
+    "width" : 800,
+    "height" : 383
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 800,
+  "@id" : "https://wmichelle22.github.io/Threeheads/images/banyuan",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 383
+}
