@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://wmichelle22.github.io/Threeheads/manifests/manifest-1.json",
     "label" : "muralfragment"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://wmichelle22.github.io/Threeheads/manifests/fragmentcontextualizationtestingfinal.json",
+    "label" : "Manifest for Cave 224-testing"
   } ]
 }
