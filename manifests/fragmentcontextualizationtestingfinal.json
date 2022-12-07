@@ -1,0 +1,138 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://wmichelle22.github.io/Threeheads/manifests/fragmentcontextualizationtestingfinal.json",
+  "@type" : "sc:Manifest",
+  "label" : "Manifest for Cave 224-testing",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://b4377269-e4c9-46c6-9167-1e2e3875b8f5",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://9a0903bc-41eb-4227-b9b3-95a3bd354ce3",
+      "@type" : "sc:Canvas",
+      "label" : "Status quo of Cave 224",
+      "height" : 510,
+      "width" : 468,
+      "images" : [ {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "label" : "天人及比丘（Devas and Bhikkhu）",
+          "@id" : "https://wmichelle22.github.io/Threeheads/images/vafragmentimage/full/full/0/default.jpg",
+          "format" : "image/jpeg",
+          "@type" : "dctypes:Image",
+          "width" : 800,
+          "height" : 1387,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://wmichelle22.github.io/Threeheads/images/vafragmentimage",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          }
+        },
+        "on" : "http://9a0903bc-41eb-4227-b9b3-95a3bd354ce3#xywh=400,125,28,250"
+      }, {
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "label" : "释迦菩萨兜率天宫说法图（Sermon from Maitreya）",
+          "@id" : "https://wmichelle22.github.io/Threeheads/images/humboltfragmentimage/full/full/0/default.jpg",
+          "format" : "image/jpeg",
+          "@type" : "dctypes:Image",
+          "width" : 800,
+          "height" : 319,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://wmichelle22.github.io/Threeheads/images/humboltfragmentimage",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          }
+        },
+        "on" : "http://9a0903bc-41eb-4227-b9b3-95a3bd354ce3#xywh=30,18,380,175"
+      }, {
+        "@id" : "http://14f268b3-973f-47fd-9fbd-936d9c3bb49d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "label" : " 克孜尔石窟第224窟（Cave 224 in Kizil Grottoes）",
+          "@id" : "https://iiif.archivelab.org/iiif/incave/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/incave",
+            "profile" : [ "http://iiif.io/api/image/2/level2" ]
+          },
+          "height" : 510,
+          "width" : 468
+        },
+        "on" : "http://9a0903bc-41eb-4227-b9b3-95a3bd354ce3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f5e3c16c-73fb-430e-b654-dd78c90e87cd",
+      "@type" : "sc:Canvas",
+      "label" : "Object in V&A context",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ba40094a-1747-447f-8842-d0a863ac90fb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/inva_20221207/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/inva_20221207",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://f5e3c16c-73fb-430e-b654-dd78c90e87cd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://dbde27ea-087c-4f4e-967f-fd5b07875f52",
+      "@type" : "sc:Canvas",
+      "label" : "Object in Humbolt Forum context",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7f938e6a-e09e-4d52-9500-7b3920635982",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/inhumbolt/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/inhumbolt",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://dbde27ea-087c-4f4e-967f-fd5b07875f52"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "http://9a0903bc-41eb-4227-b9b3-95a3bd354ce3"
+  }
+}
