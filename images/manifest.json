@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 800,
+    "id" : "https://wmichelle22.github.io/Threeheads/images/humboltfragmentimage/canvas/",
+    "label" : {
+      "none" : [ "humboltfragmentimage" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://wmichelle22.github.io/Threeheads/images/humboltfragmentimage/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://wmichelle22.github.io/Threeheads/images/humboltfragmentimage/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 25,
+              "height" : 10
+            }, {
+              "width" : 50,
+              "height" : 20
+            }, {
+              "width" : 100,
+              "height" : 40
+            }, {
+              "width" : 200,
+              "height" : 80
+            }, {
+              "width" : 400,
+              "height" : 160
+            }, {
+              "width" : 800,
+              "height" : 319
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 800,
+            "@id" : "https://wmichelle22.github.io/Threeheads/images/humboltfragmentimage",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 319
+          } ],
+          "format" : "image/jpeg",
+          "width" : 800,
+          "id" : "https://wmichelle22.github.io/Threeheads/images/humboltfragmentimage/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 319
+        },
+        "target" : "https://wmichelle22.github.io/Threeheads/images/humboltfragmentimage/canvas/"
+      } ]
+    } ],
+    "height" : 319
+  }, {
     "width" : 4032,
     "id" : "https://wmichelle22.github.io/Threeheads/images/IMG_0676/canvas/",
     "label" : {
